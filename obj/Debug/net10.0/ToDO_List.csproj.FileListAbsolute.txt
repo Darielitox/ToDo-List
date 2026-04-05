@@ -1,0 +1,14 @@
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\bin\Debug\net10.0\ToDO_List.exe
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\bin\Debug\net10.0\ToDO_List.deps.json
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\bin\Debug\net10.0\ToDO_List.runtimeconfig.json
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\bin\Debug\net10.0\ToDO_List.dll
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\bin\Debug\net10.0\ToDO_List.pdb
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.AssemblyInfoInputs.cache
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.AssemblyInfo.cs
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.dll
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\refint\ToDO_List.dll
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.pdb
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ToDO_List.genruntimeconfig.cache
+C:\Users\User\Documents\TO-DO list C#\ToDO_List\obj\Debug\net10.0\ref\ToDO_List.dll
