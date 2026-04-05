@@ -39,7 +39,7 @@ ToDo_List/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/todo-list.git
+git clone https://github.com/Darielitox/todo-list.git
 cd todo-list
 
 # Compilar y ejecutar
