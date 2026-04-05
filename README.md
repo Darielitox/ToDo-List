@@ -33,7 +33,7 @@ ToDo_List/
 ## ▶️ Cómo Ejecutar
 
 ### Requisitos
-- [.NET SDK](https://dotnet.microsoft.com/download) 6.0 o superior
+- [.NET SDK](https://dotnet.microsoft.com/download) 9.0 o superior
 
 ### Pasos
 
@@ -62,7 +62,7 @@ Las tareas se muestran numeradas en la parte superior de la pantalla en todo mom
 
 ## 👤 Autor
 
-**Dariel De Jesus** — 2025
+**Dariel De Jesus** — 2025-2155 - Estudiante de Seguridad Informatica ITLA
 
 ---
 
